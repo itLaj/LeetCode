@@ -3,15 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" filepath="$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Regular Experssion Matching/10 Regular Experssion Matching.iml" filepath="$PROJECT_DIR$/10 Regular Experssion Matching/10 Regular Experssion Matching.iml" />
       <module fileurl="file://$PROJECT_DIR$/198  House Robber/198  House Robber.iml" filepath="$PROJECT_DIR$/198  House Robber/198  House Robber.iml" />
       <module fileurl="file://$PROJECT_DIR$/198 House Robber/198 House Robber.iml" filepath="$PROJECT_DIR$/198 House Robber/198 House Robber.iml" />
       <module fileurl="file://$PROJECT_DIR$/2 Add Two Numbers/2 Add Two Numbers.iml" filepath="$PROJECT_DIR$/2 Add Two Numbers/2 Add Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/3 Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/3 Longest Substring Without Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/300 Longest Increasing Subsequence/300 Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/300 Longest Increasing Subsequence/300 Longest Increasing Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/343 Integer Break/343 Integer Break.iml" filepath="$PROJECT_DIR$/343 Integer Break/343 Integer Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 Median of Two Sorted Arrays/4 Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/4 Median of Two Sorted Arrays/4 Median of Two Sorted Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/5 Longest Palindromic Substring/5 Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/5 Longest Palindromic Substring/5 Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/6 ZigZag Conversion/6 ZigZag Conversion.iml" filepath="$PROJECT_DIR$/6 ZigZag Conversion/6 ZigZag Conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/7 Reverse Integer/7 Reverse Integer.iml" filepath="$PROJECT_DIR$/7 Reverse Integer/7 Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70 Climbing Stairs/70 Climbing Stairs.iml" filepath="$PROJECT_DIR$/70 Climbing Stairs/70 Climbing Stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/9 palindrome Number/9 palindrome Number.iml" filepath="$PROJECT_DIR$/9 palindrome Number/9 palindrome Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hamming_Distance/Hamming_Distance.iml" filepath="$PROJECT_DIR$/Hamming_Distance/Hamming_Distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jewels_and_Stones/Jewels_and_Stones.iml" filepath="$PROJECT_DIR$/Jewels_and_Stones/Jewels_and_Stones.iml" />
