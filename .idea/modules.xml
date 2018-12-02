@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" filepath="$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10 Regular Experssion Matching/10 Regular Experssion Matching.iml" filepath="$PROJECT_DIR$/10 Regular Experssion Matching/10 Regular Experssion Matching.iml" />
       <module fileurl="file://$PROJECT_DIR$/12 Integer to Roman/12 Integer to Roman.iml" filepath="$PROJECT_DIR$/12 Integer to Roman/12 Integer to Roman.iml" />
       <module fileurl="file://$PROJECT_DIR$/13 Roman to Integer/13 Roman to Integer.iml" filepath="$PROJECT_DIR$/13 Roman to Integer/13 Roman to Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/14 Longest Common Prefix/14 Longest Common Prefix.iml" filepath="$PROJECT_DIR$/14 Longest Common Prefix/14 Longest Common Prefix.iml" />
