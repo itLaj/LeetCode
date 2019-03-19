@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0-1-Knapsack/0-1-Knapsack.iml" filepath="$PROJECT_DIR$/0-1-Knapsack/0-1-Knapsack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" filepath="$PROJECT_DIR$/1 Two Sum/1 Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 Integer to Roman/12 Integer to Roman.iml" filepath="$PROJECT_DIR$/12 Integer to Roman/12 Integer to Roman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 Roman to Integer/13 Roman to Integer.iml" filepath="$PROJECT_DIR$/13 Roman to Integer/13 Roman to Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 Longest Common Prefix/14 Longest Common Prefix.iml" filepath="$PROJECT_DIR$/14 Longest Common Prefix/14 Longest Common Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 3Sum/15 3Sum.iml" filepath="$PROJECT_DIR$/15 3Sum/15 3Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 3Sum Closest/16 3Sum Closest.iml" filepath="$PROJECT_DIR$/16 3Sum Closest/16 3Sum Closest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/198  House Robber/198  House Robber.iml" filepath="$PROJECT_DIR$/198  House Robber/198  House Robber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 Add Two Numbers/2 Add Two Numbers.iml" filepath="$PROJECT_DIR$/2 Add Two Numbers/2 Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 Generate Parenthese/22 Generate Parenthese.iml" filepath="$PROJECT_DIR$/22 Generate Parenthese/22 Generate Parenthese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/3 Longest Substring Without Repeating Characters.iml" filepath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/3 Longest Substring Without Repeating Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/300 Longest Increasing Subsequence/300 Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/300 Longest Increasing Subsequence/300 Longest Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/343 Integer Break/343 Integer Break.iml" filepath="$PROJECT_DIR$/343 Integer Break/343 Integer Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 Median of Two Sorted Arrays/4 Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/4 Median of Two Sorted Arrays/4 Median of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/438 Find All Anagrams in a String/438 Find All Anagrams in a String.iml" filepath="$PROJECT_DIR$/438 Find All Anagrams in a String/438 Find All Anagrams in a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 Longest Palindromic Substring/5 Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/5 Longest Palindromic Substring/5 Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 ZigZag Conversion/6 ZigZag Conversion.iml" filepath="$PROJECT_DIR$/6 ZigZag Conversion/6 ZigZag Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Reverse Integer/7 Reverse Integer.iml" filepath="$PROJECT_DIR$/7 Reverse Integer/7 Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70 Climbing Stairs/70 Climbing Stairs.iml" filepath="$PROJECT_DIR$/70 Climbing Stairs/70 Climbing Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/709 ToLowerCase/709 ToLowerCase.iml" filepath="$PROJECT_DIR$/709 ToLowerCase/709 ToLowerCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/771 Jewels_and_Stones/771 Jewels_and_Stones.iml" filepath="$PROJECT_DIR$/771 Jewels_and_Stones/771 Jewels_and_Stones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9 palindrome Number/9 palindrome Number.iml" filepath="$PROJECT_DIR$/9 palindrome Number/9 palindrome Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/929 Unique_Email_Addresses/929 Unique_Email_Addresses.iml" filepath="$PROJECT_DIR$/929 Unique_Email_Addresses/929 Unique_Email_Addresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/999 Available Capture for Rook/999 Available Capture for Rook.iml" filepath="$PROJECT_DIR$/999 Available Capture for Rook/999 Available Capture for Rook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hamming_Distance/Hamming_Distance.iml" filepath="$PROJECT_DIR$/Hamming_Distance/Hamming_Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.iml" filepath="$PROJECT_DIR$/Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Frequency_Stack/Maximum_Frequency_Stack.iml" filepath="$PROJECT_DIR$/Maximum_Frequency_Stack/Maximum_Frequency_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Monotonic _sequence/Monotonic _sequence.iml" filepath="$PROJECT_DIR$/Monotonic _sequence/Monotonic _sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_String/Reverse_String.iml" filepath="$PROJECT_DIR$/Reverse_String/Reverse_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot_Return_to_Origin/Robot_Return_to_Origin.iml" filepath="$PROJECT_DIR$/Robot_Return_to_Origin/Robot_Return_to_Origin.iml" />
+    </modules>
+  </component>
+</project>
