@@ -1,6 +1,6 @@
 
 # Other files and folders
 .idea/
-
+out/
 # idea
 *.iml
