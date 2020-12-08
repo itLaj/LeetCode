@@ -11,33 +11,6 @@ class Solution {
         return mid;
     }
 
-    private double find(int[] nums1, int[] nums2, int start1, int end1, int start2, int end2) {
-        int length1 = end1 + start1;
-        int length2 = end2 + start2;
-        double mid = 0, mid1 = 0, mid2 = 0;
-        if (mid1 == mid2) {
-            return mid1;
-        }
-
-        if (length1 % 2 != 0) {
-            mid1 = (nums1[length1 / 2] + nums1[length1 / 2 + 1]) / 2;
-        } else {
-            mid1 = nums1[length1 / 2];
-        }
-        if (length2 % 2 == 0) {
-            mid2 = (nums1[length2 / 2] + nums1[length2 / 2 + 1]) / 2;
-        } else {
-            mid2 = nums1[length2 / 2];
-        }
-
-        if (mid1 < mid2) {
-            mid = find(nums1, nums2, length1 / 2, end1, start2, length2 / 2);
-        } else if (mid1 > mid2) {
-            mid = find(nums1, nums2, start1, length2 / 2, length2 / 2 , end2);
-        }
-        return  0;
-
-    }
 
 
 

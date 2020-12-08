@@ -22,4 +22,8 @@ public class Knapsack1 {
         memo = new int[n][C];
         return bestValue(w, v, n - 1, C);
     }
+
+
+
 }
+
